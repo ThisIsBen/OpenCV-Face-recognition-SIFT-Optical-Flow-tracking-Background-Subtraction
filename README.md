@@ -3,8 +3,8 @@
 ## 1.  SIFT
 ## 2.  Background Subtraction
 ## 3.  Optical Flow tracking
-   ### 3.1 Preprocessing 
-   ### 3.2 Tracking whole video 
+   &nbsp &nbsp ### 3.1 Preprocessing 
+   &nbsp &nbsp ### 3.2 Tracking whole video 
 ## 4. Face Recognition & Detection 
    ###4.1 Face Recognition 
    ###4.2 Face Detection 
