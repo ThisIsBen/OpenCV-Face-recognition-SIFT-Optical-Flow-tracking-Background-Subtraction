@@ -1,4 +1,4 @@
-# OpenCV_ImageProcessing
+# OpenCV: Face recognition,SIFT,Optical Flow tracking,Background Subtraction 
 ## I make use of OpenCV in C++ with Visual studio 2012 to achieve the following image processing:
 ## 1.  SIFT
 ## 2.  Background Subtraction
