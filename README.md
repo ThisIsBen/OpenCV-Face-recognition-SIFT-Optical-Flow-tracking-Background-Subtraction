@@ -11,5 +11,5 @@
    - ### 4.3 Face Detection + Recognition 
    
 ## For the details of each image processing result, please refer to the PPT,"OpenCV image processing request".
-## For the complete program, please download it with this [link](https://drive.google.com/file/d/1J-WrxQHtTqhORK4FZDjrPSpzvIaWOrIY/view?usp=sharing)
+## For the complete project,which includes all the programs and images used to implement the image processing feature mentioned above, please download it with this [link](https://drive.google.com/file/d/1J-WrxQHtTqhORK4FZDjrPSpzvIaWOrIY/view?usp=sharing)
 
